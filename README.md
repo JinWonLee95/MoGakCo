@@ -14,5 +14,5 @@ http://codedaeng.tistory.com/3
 
 ## 3일차 ( 7/25 )
 오늘 목표 : 머신러닝을 위한 파이썬, github
-오늘 진행 : 
-다음 목표 :
+오늘 진행 : github 과거 프로젝트 업로드, gitbash 사용법
+다음 목표 : 머신러닝을 위한 
