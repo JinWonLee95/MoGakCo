@@ -23,6 +23,6 @@ http://codedaeng.tistory.com/3
 다음 목표 : github 프로젝트 업로드, 자료구조 
 
 # 5일차 ( 8/2 )
-오늘 목표 : github 프로젝트 업로드, 자료구조 인강, 수강신청
-오늘 진행 :
-다음 목표 
+오늘 목표 : github 프로젝트 업로드, 알고리즘 문제, 수강신청
+오늘 진행 : 알고리즘 문제, github upload
+다음 목표 : 알고리즘 문제, github 
