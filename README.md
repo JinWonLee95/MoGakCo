@@ -26,3 +26,8 @@ http://codedaeng.tistory.com/3
 오늘 목표 : github 프로젝트 업로드, 알고리즘 문제, 수강신청
 오늘 진행 : 알고리즘 문제, github upload
 다음 목표 : 알고리즘 문제, github 
+
+# 6일차 ( 8/7 )
+오늘 목표 : github 프로젝트 업로드, 알고리즘 문제, 
+오늘 진행 : 
+다음 목표 :
